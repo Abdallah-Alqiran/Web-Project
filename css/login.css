@@ -1,0 +1,140 @@
+/* .container {
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    width: 70%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.image-section {
+    flex: 1;
+    background-color: #eaf4f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+}
+
+.image-section img {
+    width: 100%;
+    height: 100%;
+}
+
+.form-section {
+    flex: 1;
+    padding: 60px 40px;
+}
+
+.login-form h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.login-form p {
+    color: #555;
+    margin-bottom: 25px;
+    font-size: 15px;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    color: #333;
+    outline: none;
+}
+
+.login-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.login-btn {
+    background-color: #d94c48;
+    color: #fff;
+    border: none;
+    padding: 12px 28px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+.login-btn:hover {
+    background-color: #500401;
+}
+
+.forgot-link {
+    color: #d94c48;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+} */
+/* .login-container {
+    max-width: 1000px;
+    height: 500px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.login-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.login-form input.form-control {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+    box-shadow: none;
+} */
+.login-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 !important;
+    margin-bottom: 100px;
+}
+
+.login-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.login-form {
+    padding: 40px 30px;
+    padding-bottom: 100px;
+}
+
+.login-form input.form-control {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.login-form h3 {
+    word-spacing: 10px;
+}
