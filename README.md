@@ -34,7 +34,8 @@ A modern, responsive e-commerce platform built with [HTML, CSS, JavaScript, boot
 ## Team Members
 - [Abdallah Alqiran](https://github.com/Abdallah-Alqiran)
 - [Abdelrahman Hafez](https://github.com/Abdelrhman-hafez)
-- [Mahmoud Ali]()
+- [Mohamed Abdeldayem]
+- [Mahmoud Ali](https://github.com/mohamed-abdeldayem)
 - [Taha Fawy](https://github.com/Taha-M-Fawy)
 - [Taha Saber](https://github.com/TahaSab3r)
 - [Ziad Magdy](https://github.com/ZiadMagdyAlSayed)
